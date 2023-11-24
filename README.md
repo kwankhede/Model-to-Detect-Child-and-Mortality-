@@ -1,3 +1,6 @@
+![Banner](https://github.com/kwankhede/Model-to-Detect-Child-and-Mortality-/blob/main/green.png)
+
+
 # Fetal Health Classification Project
 
 ## Abstract
